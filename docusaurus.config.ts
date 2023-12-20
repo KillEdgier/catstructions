@@ -18,6 +18,7 @@ const config: Config = {
   organizationName: 'KillEdgier', // Usually your GitHub org/user name.
   projectName: 'catstructions', // Usually your repo name.
   deploymentBranch: 'gh-pages'
+  trailingSlash: 'false'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
