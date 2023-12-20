@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>Catstructions Blog</title>
+    <updated>2023-12-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>Catstructions Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Catstructions]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/Welcome to Catstructions</id>
+        <link href="https://your-docusaurus-site.example.com/blog/Welcome to Catstructions"/>
+        <updated>2023-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.</p>
+<p><img loading="lazy" alt="Alt text" src="https://your-docusaurus-site.example.com/assets/images/revolution-42d0982855cb2f6e9e1919b51a55030e.jpg" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Kell Sanders</name>
+            <uri>https://github.com/KillEdgier</uri>
+        </author>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>

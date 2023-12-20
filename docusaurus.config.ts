@@ -16,7 +16,8 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KillEdgier', // Usually your GitHub org/user name.
-  projectName: 'Catstructions', // Usually your repo name.
+  projectName: 'catstructions', // Usually your repo name.
+  deploymentBranch: 'gh-pages'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
