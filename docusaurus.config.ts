@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://killedgier.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/catstructions',
+  baseUrl: '/catstructions/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -19,7 +19,6 @@ const config: Config = {
   projectName: 'catstructions', // Usually your repo name.
   deploymentBranch: 'gh-pages'
   trailingSlash: true,
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -40,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KillEdgier/catstructions',
           routeBasePath: '/',
           },
         blog: {
@@ -48,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/KillEdgier/catstructions',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -75,7 +74,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'New Hotness', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/KillEdgier/catstructions',
           label: 'GitHub',
           position: 'right',
         },
