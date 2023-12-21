@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # Myrtle
 
+![Myrtle](/img/myrtled-out.JPG)
+
 ## Early life and ancestry
 Myrtle (born 2009) is a Himalayan rag doll cat. Humane Society volunteers estimated that Myrtle had been living on the streets for several years at the time of her capture, a hardship exacerbated by her being declawed on all fours.
 
