@@ -17,9 +17,9 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KillEdgier', // Usually your GitHub org/user name.
   projectName: 'catstructions', // Usually your repo name.
-  deploymentBranch: 'gh-pages'
-  trailingSlash: true,
-  onBrokenLinks: 'throw',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -39,7 +39,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KillEdgier/catstructions',
+            'https://github.com/KillEdgier/catstructions/tree/main/',
           routeBasePath: '/',
           },
         blog: {
@@ -47,7 +47,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KillEdgier/catstructions',
+            'https://github.com/KillEdgier/catstructions/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',

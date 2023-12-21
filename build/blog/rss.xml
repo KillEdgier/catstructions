@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Catstructions Blog</title>
-        <link>https://your-docusaurus-site.example.com/blog</link>
+        <link>https://killedgier.github.io/catstructions/blog</link>
         <description>Catstructions Blog</description>
         <lastBuildDate>Tue, 19 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,12 +10,12 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to Catstructions]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/Welcome to Catstructions</link>
-            <guid>https://your-docusaurus-site.example.com/blog/Welcome to Catstructions</guid>
+            <link>https://killedgier.github.io/catstructions/blog/Welcome to Catstructions</link>
+            <guid>https://killedgier.github.io/catstructions/blog/Welcome to Catstructions</guid>
             <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.]]></description>
             <content:encoded><![CDATA[<p>Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.</p>
-<p><img loading="lazy" alt="Alt text" src="https://your-docusaurus-site.example.com/assets/images/revolution-42d0982855cb2f6e9e1919b51a55030e.jpg" class="img_ev3q"></p>]]></content:encoded>
+<p><img loading="lazy" alt="Alt text" src="https://killedgier.github.io/catstructions/assets/images/revolution-42d0982855cb2f6e9e1919b51a55030e.jpg" class="img_ev3q"></p>]]></content:encoded>
             <category>docusaurus</category>
         </item>
     </channel>
