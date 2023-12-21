@@ -85,51 +85,6 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Cat Care',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Trudy',
-          items: [
-            {
-              label: 'Trudy',
-              href: '/docs/the-cats/trudy.md',
-            },
-            {
-              label: 'Trudy',
-              href: '/docs/the-cats/trudy.md',
-            },
-            {
-              label: 'Trudy',
-              href: '/docs/the-cats/trudy.md',
-            },
-          ],
-        },
-        {
-          title: 'Myrtle',
-          items: [
-            {
-              label: 'Myrtle',
-              to: '/docs/the-cats/myrtle.md',
-            },
-            {
-              label: 'Myrtle',
-              href: '/docs/the-cats/myrtle.md',
-            },
-            {
-              label: 'Myrtle',
-              href: '/docs/the-cats/myrtle.md',
-            },
-          ],
-        },
-      ],
       copyright: `Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle `,
     },
     prism: {
