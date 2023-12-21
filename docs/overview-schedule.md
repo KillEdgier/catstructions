@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Overview
 
-1. Fill Myrtle's feeder with ⅖ cup Purina Pro Plan dry food from pantry.
+1. Fill Myrtle's feeder with ⅔ cup Purina Pro Plan dry food from pantry.
 2. Give Myrtle one Lil Soupies broth treat from pantry.
 3. Refill water fountain with glass carafe.
 4. Scoop upstairs litter boxes and use Clorox wipes to clean any solid waste.
