@@ -22,4 +22,4 @@ Myrtle prefers to shit directly on the god damned floor
 :::
 
 - There are Clorox wipes, sanitizing spray, and paper towels in the office to deal with messes.
-- She's gross, what can I say
+- Myrtle has a delicate digestive system and barfs regularly, something her vet has diagnosed as "sometimes cats are just like that."

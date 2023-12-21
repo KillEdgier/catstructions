@@ -7,4 +7,4 @@ sidebar_position: 1
 
 ![Trudy](/img/tree-trudy.jpg)
 
-- I would take a bullet for her
+I would take a bullet for her
