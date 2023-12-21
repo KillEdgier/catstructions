@@ -15,7 +15,7 @@ sidebar_position: 1
 **Myrtle**
     - Myrtle has an [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) that needs ⅔ cup Purina Pro Plan daily (either all at once, or ⅓ cup in the morning and ⅓ cup in the evening). 
     - To open the feeder, press and hold the large circle button on the back. The measuring cup is inside the bag!
-    - ![Alt text](/img/myrtle-feeder.jpg)
+    ![Alt text](/img/myrtle-feeder.jpg)
 
   
 
