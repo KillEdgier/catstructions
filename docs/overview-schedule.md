@@ -11,13 +11,9 @@ sidebar_position: 2
 3. Refill water fountain with glass carafe.
 4. Scoop upstairs litter boxes and use Clorox wipes to clean any solid waste.
 5. Attempt to play with cats using various toys (if time permits).
-6. (Saturday only) Bring refuse bins back into garage.
+6. (Saturdays only) Bring refuse bins back into garage.
 
 ## Schedule
 
-|           | Sat 12/23 | Sun 12/24 | Mon 12/25 |
-|-----------|-----------|-----------|-----------|
-| Andy      | x         |           |           |
-| Becca     |           | x         |           |
-| Tony/Abby |           |           | x         |
+Nice try, potential burglars. I'll never advertise when I'm out of town.
 
