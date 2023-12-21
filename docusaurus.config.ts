@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://killedgier.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/catstructions',
+  baseUrl: '/catstructions/',
   // Testing
 
   // GitHub pages deployment config.
