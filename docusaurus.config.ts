@@ -99,16 +99,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Mr. Meowgi',
+              href: 'https://www.instagram.com/its_mr_meowgi_to_you',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Roman Wonder Twins',
+              href: 'https://www.instagram.com/romanwondertwins',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Brooklyn',
+              href: 'https://flatbushcats.org',
             },
           ],
         },
@@ -126,7 +126,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle `,
     },
     prism: {
       theme: prismThemes.github,
