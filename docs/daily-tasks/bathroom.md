@@ -9,7 +9,7 @@ sidebar_position: 2
 - There are three litter boxes on the top floor:
     - Two in the office
     - One in the laundry room
-- Once per visit, please scoop them out (scoop in the litter tub in the den) and place the soiled goop in the silver trash can. 
+- Once per visit, please scoop them out (scoop in the litter tub in the office) and place the soiled goop in the silver trash can. 
     - There’s a new bag underneath the current one in the silver trash can, and even more of them hanging in the office closet.
 - If the bag fills up, please (and thank you) deposit it in the garbage bin with the black lid in the garage.
 
