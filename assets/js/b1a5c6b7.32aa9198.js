@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatstructions=self.webpackChunkcatstructions||[]).push([[827],{9113:t=>{t.exports=JSON.parse('{"permalink":"/catstructions/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
