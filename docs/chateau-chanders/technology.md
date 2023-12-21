@@ -6,7 +6,7 @@ sidebar_position: 2
 # Technology
 
 ## Wi-Fi 
-- SSID is **Baja Blast** and the password is `y0quieroTacoBell!`
+- Coming Soon!
 
 ## Google Home
 - Our house is named **Live Mas** in Google Home. If you don't have access to it, please ask Claire or Kell for an invite.
