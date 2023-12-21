@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://killedgier.github.io/blog</id>
+    <id>https://killedgier.github.io/catstructions/blog</id>
     <title>Catstructions Blog</title>
     <updated>2023-12-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://killedgier.github.io/blog"/>
+    <link rel="alternate" href="https://killedgier.github.io/catstructions/blog"/>
     <subtitle>Catstructions Blog</subtitle>
-    <icon>https://killedgier.github.io/img/favicon.ico</icon>
+    <icon>https://killedgier.github.io/catstructions/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to Catstructions]]></title>
-        <id>https://killedgier.github.io/blog/Welcome to Catstructions</id>
-        <link href="https://killedgier.github.io/blog/Welcome to Catstructions"/>
+        <id>https://killedgier.github.io/catstructions/blog/Welcome to Catstructions</id>
+        <link href="https://killedgier.github.io/catstructions/blog/Welcome to Catstructions"/>
         <updated>2023-12-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.</p>
-<p><img loading="lazy" alt="Alt text" src="https://killedgier.github.io/assets/images/girls-561fc74ad0584ccb31dabee32d522f69.jpg" width="600" height="800" class="img_ev3q"></p>]]></content>
+<p><img loading="lazy" alt="Alt text" src="https://killedgier.github.io/catstructions/assets/images/girls-561fc74ad0584ccb31dabee32d522f69.jpg" width="600" height="800" class="img_ev3q"></p>]]></content>
         <author>
             <name>Kell Sanders</name>
             <uri>https://github.com/KillEdgier</uri>
