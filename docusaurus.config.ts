@@ -96,37 +96,41 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Trudy',
           items: [
             {
-              label: 'Mr. Meowgi',
-              href: 'https://www.instagram.com/its_mr_meowgi_to_you',
+              label: 'Trudy',
+              href: '/docs/the-cats/trudy.md',
             },
             {
-              label: 'Roman Wonder Twins',
-              href: 'https://www.instagram.com/romanwondertwins',
+              label: 'Trudy',
+              href: '/docs/the-cats/trudy.md',
             },
             {
-              label: 'Brooklyn',
-              href: 'https://flatbushcats.org',
+              label: 'Trudy',
+              href: '/docs/the-cats/trudy.md',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Myrtle',
           items: [
             {
-              label: 'New Hotness',
-              to: '/blog',
+              label: 'Myrtle',
+              to: '/docs/the-cats/myrtle.md',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Myrtle',
+              href: '/docs/the-cats/myrtle.md',
+            },
+            {
+              label: 'Myrtle',
+              href: '/docs/the-cats/myrtle.md',
             },
           ],
         },
       ],
-      copyright: `Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle `,
+      copyright: `Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle `,
     },
     prism: {
       theme: prismThemes.github,
