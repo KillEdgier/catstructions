@@ -23,3 +23,4 @@ sidebar_position: 2
 - Controlling the volume of the soundbar can be done on the television remote control.
 - Streaming services can be summoned by pressing the home button on the remote control.
 - To change inputs for the PlayStation, Xbox, or Switch, press the inputs button on the remote (nice).
+- You don't even want to tangle with the record player. It's the worst.
