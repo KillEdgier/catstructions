@@ -12,7 +12,6 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  // Testing
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -77,16 +76,11 @@ const config: Config = {
           label: 'Cat Care',
         },
         {to: '/blog', label: 'New Hotness', position: 'left'},
-        {
-          href: 'https://github.com/KillEdgier/catstructions',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle Trudy Myrtle `,
+      copyright: `Catstructions™ is brought to you by Clellworld Productions LLC ® 2023`,
     },
     prism: {
       theme: prismThemes.github,
