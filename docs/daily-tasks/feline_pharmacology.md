@@ -18,7 +18,7 @@ We (re)started Myrtle's Prozac regimen to help her Feel Better, and it's been a 
 ## Dose Her
 :::tip Food Bribe
 
-We have successfully employed classical conditioning techniques to have Myrtle associate medication with mealtime. To make her Extra Compliant, get some food ready before you medicate her.
+We have employed classical conditioning techniques to have Myrtle associate medication with mealtime. To make her Extra Compliant, get some food ready before you medicate her.
 :::
 
 - Once you've got a dose prepped with the pen, pretend you're drawing and make some lines on the inside of Myrtle's ear.
