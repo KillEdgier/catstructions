@@ -6,7 +6,7 @@ sidebar_position: 2
 # Technology
 
 ## Wi-Fi 
-- Coming Soon!
+- Scan the QR code on the dining room table if you don't have our network saved on your device.
 
 ## Google Home
 - Our house is named **Live Mas** in Google Home. If you don't have access to it, please ask Claire or Kell for an invite.

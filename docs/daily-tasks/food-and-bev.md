@@ -13,7 +13,8 @@ sidebar_position: 1
    
 
 **Myrtle**
-    - Myrtle has an [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) that needs ⅔ cup Purina Pro Plan daily (either all at once, or ⅓ cup in the morning and ⅓ cup in the evening). 
+    - Myrtle gets ¼ can wet food in the morning and ¼ can in the evening, plates and bowls are in the cupboard to the right of the microwave. Cover the open can with the blue rubber topper with the fish on it before putting it back in the fridge.
+    - Myrtle has an [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) that needs ⅓ cup Purina Pro Plan daily. 
     - To open the feeder, press and hold the large circle button on the back. The measuring cup is inside the bag!
     ![Alt text](/img/myrtle-feeder.jpg)
 
@@ -23,15 +24,13 @@ sidebar_position: 1
 ## Water 
 - Replenish the water fountain once per visit.
 - Use the glass carafe to pour water into fountain (from the fridge if you're feeling charitable).
+
 :::tip Hot Refilling Tips
 
-- Unplug water fountain from its power supply *first*, then pour the water over the top.
 - Water fountain has a small window that shows the current water level, fill it up to the top of that.
 
 :::
 
-:::
-
 ## Snacks
-- Myrtle gets a Lil Soupies once per visit
-- Trudy likes Greenies
+- Myrtle likes Lil Soupies.
+- Trudy likes Greenies.
