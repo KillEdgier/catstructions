@@ -6,7 +6,7 @@ sidebar_position: 1
 # Gaining Entry
 
 ## Front Door
-- Housekeys have been made for you and are on the kitchen counter!
+- If you have a housekey, you are very Special.
 
 ## Garage Door
 - You should have the code, call me if you don't.

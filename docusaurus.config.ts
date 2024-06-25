@@ -80,11 +80,16 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Catstructions™ is brought to you by Clellworld Productions LLC ® 2023`,
+      copyright: `Catstructions™ is brought to you by Clell® 2024`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
     },
   } satisfies Preset.ThemeConfig,
 };

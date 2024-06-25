@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Playtime'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Playtime
