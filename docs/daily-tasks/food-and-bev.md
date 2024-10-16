@@ -13,7 +13,7 @@ sidebar_position: 1
    
 
 **Myrtle**
-    - Myrtle gets ¼ can wet food in the morning and ¼ can in the evening, plates and bowls are in the cupboard to the right of the microwave. Cover the open can with the blue rubber topper with the fish on it before putting it back in the fridge.
+    - Myrtle gets ⅓ can wet food in the morning and ⅓ can in the evening, plates and bowls are in the cupboard to the right of the microwave. Cover the open can with the blue rubber topper with the fish on it before putting it back in the fridge.
     - Myrtle has an [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) that needs ⅓ cup Purina Pro Plan daily. 
     - To open the feeder, press and hold the large circle button on the back. The measuring cup is inside the bag!
     ![Alt text](/img/myrtle-feeder.jpg)
@@ -34,3 +34,4 @@ sidebar_position: 1
 ## Snacks
 - Myrtle likes Lil Soupies.
 - Trudy likes Greenies.
+- Treats are in the teal basket on the floor of the pantry.
