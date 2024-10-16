@@ -9,7 +9,7 @@ sidebar_position: 2
 - There are two litter boxes in the house, one on each floor:
     - Broom closet next to the bathroom (downstairs)
     - Office (upstairs)
-- Once per visit, please scoop them out (scoop hanging in the closet and in the litter tub, respectively) and place the soiled goop in the silver trash can. 
+- Once per visit, please scoop them out (scoop hanging in a white plastic bag in the closet and in the litter tub, respectively) and place the soiled goop in the silver trash can. 
     - There’s a new bag underneath the current one in the silver trash can, and even more of them hanging in the office closet.
 - If the bag fills up, please (and thank you) deposit it in the garbage bin with the black lid in the garage.
 
