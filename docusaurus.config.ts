@@ -13,7 +13,7 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
+  // GitHub pages deployment config. OK.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KillEdgier', // Usually your GitHub org/user name.
   projectName: 'catstructions', // Usually your repo name.
@@ -22,9 +22,6 @@ const config: Config = {
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
