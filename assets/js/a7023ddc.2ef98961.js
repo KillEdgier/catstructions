@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatstructions=self.webpackChunkcatstructions||[]).push([[267],{8289:s=>{s.exports=JSON.parse('[{"label":"cats","permalink":"/blog/tags/cats","count":2}]')}}]);

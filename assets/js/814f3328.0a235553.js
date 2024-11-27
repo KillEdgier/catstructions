@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcatstructions=self.webpackChunkcatstructions||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Catstructions","permalink":"/blog/Welcome to Catstructions","unlisted":false}]}')}}]);

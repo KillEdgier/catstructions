@@ -4,10 +4,22 @@
         <title>Catstructions Blog</title>
         <link>https://killedgier.github.io/blog</link>
         <description>Catstructions Blog</description>
-        <lastBuildDate>Tue, 19 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Myrtle & Probiotics - What This Means for You]]></title>
+            <link>https://killedgier.github.io/blog/Myrtle &amp; Probiotics - What This Means for You</link>
+            <guid>https://killedgier.github.io/blog/Myrtle &amp; Probiotics - What This Means for You</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2024 was the year of Wet Food, at least according to 50% of the cat population in Chez Chanders. While Trudy remains largely disinterested in anything other than grazing on her sister's sloppy (and wet!) seconds, wet food has awoken something in Myrtle that's surprised even us. She absolutely fiends for breakfast and dinner now. Like, as soon as she hears stirring in the morning, she declares to the entire house that she's ready to eat. At least she's considerate and lets us sleep.]]></description>
+            <content:encoded><![CDATA[<p>2024 was the year of Wet Food, at least according to 50% of the cat population in Chez Chanders. While Trudy remains largely disinterested in anything other than grazing on her sister's sloppy (and wet!) seconds, wet food has awoken something in Myrtle that's surprised even us. She absolutely fiends for breakfast and dinner now. Like, as soon as she hears stirring in the morning, she declares to the entire house that she's ready to eat. At least she's considerate and lets us sleep.</p>
+<p>Because Myrtle's getting on in years, the ol' gal really benefits from probiotics - so we're making that a regular part of her feeding routine to stave off UTIs and keep her in tip-top shape. I've updated relevant procedures to describe how to incorporate probiotics into her food, as well as various other housekeeping items.</p>
+<p>Thank you for taking care of our cats. I love you.</p>
+<p><img loading="lazy" alt="Alt text" src="data:image/jpeg;base64,DQo=" class="img_ev3q"></p>]]></content:encoded>
+            <category>cats</category>
+        </item>
         <item>
             <title><![CDATA[Welcome to Catstructions]]></title>
             <link>https://killedgier.github.io/blog/Welcome to Catstructions</link>
@@ -16,7 +28,7 @@
             <description><![CDATA[Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.]]></description>
             <content:encoded><![CDATA[<p>Welcome to Catstructions, a guide I'll be building out for friends and family who graciously volunteer to watch Trudy and Myrtle.</p>
 <p><img loading="lazy" alt="Alt text" src="https://killedgier.github.io/assets/images/girls-561fc74ad0584ccb31dabee32d522f69.jpg" width="600" height="800" class="img_ev3q"></p>]]></content:encoded>
-            <category>docusaurus</category>
+            <category>cats</category>
         </item>
     </channel>
 </rss>

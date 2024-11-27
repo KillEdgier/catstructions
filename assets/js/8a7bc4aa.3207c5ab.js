@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatstructions=self.webpackChunkcatstructions||[]).push([[714],{8097:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/cats","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
