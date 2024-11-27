@@ -80,7 +80,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Catstructions™ is brought to you by Clell® {new Date().getFullYear()}`,
+      copyright: `Catstructions™ is brought to you by Clell® ${new Date().getFullYear()}`,
     },
     prism: {
       theme: prismThemes.github,
