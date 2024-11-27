@@ -5,12 +5,6 @@ sidebar_position: 4
 
 # Kitty Prozac
 
-:::info New for 2024
-
-We (re)started Myrtle's Prozac regimen to help her Feel Better, and it's been a smashing success.
-
-:::
-
 ## The Meds
 - Myrtle's Prozac Pen™ is on the third shelf up in the cabinet to the left of the microwave.
 - Dispensing is easy! Twist the bottom of the pen until it clicks once.
@@ -23,4 +17,5 @@ We have employed classical conditioning techniques to have Myrtle associate medi
 
 - Once you've got a dose prepped with the pen, pretend you're drawing and make some lines on the inside of Myrtle's ear.
 
+## The Method in Action
 ![Alt text](/img/prozac.gif)
