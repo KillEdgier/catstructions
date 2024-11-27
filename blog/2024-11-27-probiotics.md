@@ -11,4 +11,4 @@ Because Myrtle's getting on in years, the ol' gal really benefits from probiotic
 
 Thank you for taking care of our cats. I love you.
 
-![Alt text](/img/myrtle-11-27.jpg)
+![Alt text](/img/myrtle-nov2024.png)
