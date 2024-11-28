@@ -20,7 +20,7 @@ sidebar_position: 1
         - Wet food and probiotics are in the teal basket on the floor of the pantry.
 - ***Dry Food (once per day)***
     - Refill feeder with one scoop (⅓ measuring cup inside bag) of Royal Canin Renal Support kibble. 
-    - Open [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) by presing and hold the large circle button on the back.
+    - Open [RFID feeder](https://www.surepetcare.com/surepetcare/filestream/file-to-stream?file=1914&_gl=1*7e661w*_up*MQ..&gclid=Cj0KCQiAm4WsBhCiARIsAEJIEzXugiRke2mj1Zj_MDXDrLhQgX48NF-MUedxeuLGLC_QtAK8-vAZi7caAq_TEALw_wcB&gclsrc=aw.ds) by pressing and hold the large circle button on the back.
     ![Alt text](/img/myrtle-feeder.jpg)
 
   
