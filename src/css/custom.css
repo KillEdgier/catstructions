@@ -1,10 +1,5 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap');
 
-/* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #5ACDE8;
   --ifm-color-primary-dark: #5ACDE8;
@@ -15,6 +10,10 @@
   --ifm-color-primary-lightest: #5ACDE8;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  font-family: "Schibsted Grotesk", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,4 +26,9 @@
   --ifm-color-primary-lighter: #5ACDE8;
   --ifm-color-primary-lightest: #5ACDE8;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #000000;
+  --ifm-background-surface-color: #000000;
 }
